@@ -1,4 +1,4 @@
-# semipro-coach
+# SEMIPRO Coach
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-semipro-coach is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://semipro.coach/
+SEMIPRO Coach provides an athlete-focused platform offering coaching direction, performance tracking, and event preparation tools. Users can explore their power across durations, understand event demands, and connect with coaches for personalized guidance. The service integrates data-driven insights with goal setting, delivering a comprehensive space for athletes to improve performance and plan routes.
+
+**Areas:** Company · Coaching · Athlete · Performance · EventPlanning · SportsTech
+
+## SEMIPRO Coach on APIs.io
+
+Everything profiled for SEMIPRO Coach is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/semipro-coach/](https://apis.io/providers/semipro-coach/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [SEMIPRO Coach Event Demands API](https://apis.io/apis/semipro-coach/semipro-coach-event-demands-api/) — The Event Demands API from SEMIPRO Coach — 1 operation(s) for event demands.
+- [SEMIPRO Coach Health API](https://apis.io/apis/semipro-coach/semipro-coach-health-api/) — The Health API from SEMIPRO Coach — 1 operation(s) for health.
+- [SEMIPRO Coach MCP API](https://apis.io/apis/semipro-coach/semipro-coach-mcp-api/) — The Mcp API from SEMIPRO Coach — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SEMIPRO Coach Agentic Access](https://apis.io/agentic-access/semipro-coach/semipro-coach-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [EventDemandRequest](https://apis.io/schemas/semipro-coach/semipro-coach-event-demand-request/)
+- [JsonRpcRequest](https://apis.io/schemas/semipro-coach/semipro-coach-json-rpc-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Semipro Coach Context](https://apis.io/jsonld/semipro-coach/semipro-coach-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SEMIPRO Coach API Rules](https://apis.io/rules/semipro-coach/semipro-coach-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SEMIPRO Coach Domain Security](https://apis.io/security/semipro-coach/semipro-coach-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://semipro.coach/)
+- [API reference](https://semipro.coach/llms.txt)
+- [Support](https://semipro.coach/support)
+- [Changelog](https://semipro.coach/updates)
+- [Terms of service](https://semipro.coach/legal/terms)
+- [Privacy policy](https://semipro.coach/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.7** — thin · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 49.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 27.7 |
+
+**Agent readiness 42.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/semipro-coach/](https://apis.io/providers/semipro-coach/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SEMIPRO Coach: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/semipro-coach/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
